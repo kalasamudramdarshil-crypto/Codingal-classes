@@ -1,0 +1,5 @@
+print("Hi my name is darshil")
+print(18)
+print("This is my second code \n")
+print("hello",18)
+print("welcome to",end="*")
