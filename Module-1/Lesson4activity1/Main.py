@@ -11,7 +11,7 @@ total = field1 + field2 + field3 + field4 + field5
 average = total/5
 print("Total harvested value       :-", total, "kg" )
 print("average harvested value       :-", average,"kg")
-price_per_kg = 15
+price_per_kg = 15  
 earning = total * price_per_kg
 print("total earning", earning )
 
