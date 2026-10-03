@@ -1,8 +1,8 @@
 
  
-print("====================================")
+print("========                 ")
 print("    Welcome to Holiday Planner!     ")
-print("====================================")
+print("                                    ")
 print()
  
 print("Step 1: Pick your holiday type")
@@ -21,7 +21,7 @@ if choice == 1:
     print()
  
     beach_activity = int(input("Enter 1 or 2: "))
-    print()
+    print(memoryview)
  
     if beach_activity == 1:
         print("You picked  : Swimming")
@@ -32,7 +32,7 @@ if choice == 1:
         print("Best time   : Evening")
         print("Remember    : Carry a bucket and spade")
  
-elif choice == 2:
+elif choice == 2: 
    
     print("Step 2: Pick your mountain activity")
     print("  1 - Hiking")
@@ -50,7 +50,7 @@ elif choice == 2:
         print("You picked  : Camping")
         print("Best for    : Staying close to nature")
         print("Remember    : Carry a tent and flashlight")
- 
+  
 else:
     print("That was not a valid choice.")
     print("Please enter 1 for Beach Holiday or 2 for Mountain Holiday.")
@@ -59,4 +59,4 @@ print()
 
 print("   Your holiday plan is ready!      ")
 print("   Enjoy your trip!                 ")
-
+print("   enjoy your make your one the only                     ")
