@@ -32,4 +32,4 @@ if (x is not y):
     print("x & y have DIFFERENT identity") 
 
     print(" x&y have same values")
- 
+    print
